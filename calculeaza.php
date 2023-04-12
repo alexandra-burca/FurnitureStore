@@ -86,9 +86,9 @@ mysqli_close($conn);
 </script>
 
 
-<p> Pret Produs 1: <input type="text" id="produs1" value="0"> </p>
-<p> Pret Produs 2: <input type="text" id="produs2" value="0"> </p>
-<p> Pret Produs 3: <input type="text" id="produs3" value="0"> </p>
+<p> Price Produs 1: <input type="text" id="produs1" value="0"> </p>
+<p> Price Produs 2: <input type="text" id="produs2" value="0"> </p>
+<p> Price Produs 3: <input type="text" id="produs3" value="0"> </p>
 
 <button style="margin-left: 100px" onclick="myFunction()">Add 'em up!</button>
 <p id="demo"> </p>

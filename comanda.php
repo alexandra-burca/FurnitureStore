@@ -8,43 +8,43 @@ $errors = array('nume'=>'','prenume'=>'','email'=>'', 'produs1'=>'','produs2'=>'
 if(isset($_POST['submit']))
 {
     if(empty($_POST['nume']))
-    {	$errors['nume'] = 'Introduceți un nume <br />';	}
+    {	$errors['nume'] = 'Add a last name <br />';	}
     else
     {	$nume = $_POST['nume'];
         if(!preg_match('/^[a-zA-ZĂăÂâÎîȘșȚț\s]+$/', $nume))
         {
-            $errors['nume'] = 'Introduceți un nume valid';
+            $errors['nume'] = 'Add a valid last name';
         }
     }
 
     if(empty($_POST['prenume']))
-    {	$errors['prenume'] = 'Introduceți un prenume <br />';}
+    {	$errors['prenume'] = 'Add a first name <br />';}
     else
     {	$prenume = $_POST['prenume'];
         if(!preg_match('/^[a-zA-ZĂăÂâÎîȘșȚț\s]+$/', $prenume))
         {
-            $errors['prenume'] = 'Introduceți un prenume valid';
+            $errors['prenume'] = 'Add a valid first name';
         }
     }
 
     if(empty($_POST['email']))
-    {	$errors['email'] = 'Introduceți un email <br />';
+    {	$errors['email'] = 'Add an email <br />';
     }
     else
     { 	$email = $_POST['email'];
         if(!filter_var($email, FILTER_VALIDATE_EMAIL))
         {
-            $errors['email'] = 'Introduceți un email valid';
+            $errors['email'] = 'Add a valid email';
         }
     }
 
     if(empty($_POST['produs1']))
-    {	$errors['produs1'] = 'Introduceți primul produs <br />';	}
+    {	$errors['produs1'] = 'Add first product <br />';	}
     else
     {	$produs1 = $_POST['produs1'];
         if(!preg_match('/[0-9]+/', $produs1))
         {
-            $errors['produs1'] = 'Introduceți un ID valid';
+            $errors['produs1'] = 'Add a valid ID';
         }
     }
 
@@ -100,7 +100,7 @@ if(isset($_POST['submit']))
 
 <head>
     <meta charset="utf-8">
-    <title> Comandă </title>
+    <title> Order </title>
 
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="formular.css?v=<?php echo time(); ?>">
