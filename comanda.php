@@ -114,32 +114,32 @@ if(isset($_POST['submit']))
 
 <ul>
 
-    <li><a href="acasa.html" style="color:#67d6ff">Acasă</a></li>
+    <li><a href="acasa.html" style="color:#67d6ff">Home</a></li>
 
     <li class="dropdown">
-        <a href="javascript:void(0)" style="color:#ff5baa" class="dropbtn">Produse</a>
+        <a href="javascript:void(0)" style="color:#ff5baa" class="dropbtn">Products</a>
         <div class="dropdown-content">
-            <a href="produse1.html">Living</a>
-            <a href="produse2.html">Bucătărie</a>
-            <a href="produse3.html">Dormitor</a>
+            <a href="produse1.html">Living room</a>
+            <a href="produse2.html">Kitchen</a>
+            <a href="produse3.html">Bedroom</a>
         </div> </li>
-    <li><a href="calculeaza.php" style="color:#ff9f44">Calculează</a></li>
-    <li><a class="active" href="comanda.html" style="color:#b9ff48">Comandă</a></li>
+    <li><a href="calculeaza.php" style="color:#ff9f44">Add up</a></li>
+    <li><a class="active" href="comanda.html" style="color:#b9ff48">Place order</a></li>
 
 </ul>
 
-<h1 style="text-align:center;margin-top:100px;margin-bottom:50px"> COMANDĂ </h1>
+<h1 style="text-align:center;margin-top:100px;margin-bottom:50px"> ORDER </h1>
 
 
 <form action="comanda.php" method="POST">
 
     <fieldset>
-        <legend><span class="number">1</span> Informații client</legend>
-        <label> <sup>*</sup>Nume:</label>
+        <legend><span class="number">1</span> Client info </legend>
+        <label> <sup>*</sup>Last name:</label>
         <input type="text" name="nume" value="<?php echo htmlspecialchars($nume) ?>" placeholder="Ana">
         <div> <?php echo $errors['nume']; ?> </div>
 
-        <label> <sup>*</sup>Prenume:</label>
+        <label> <sup>*</sup>First name:</label>
         <input type="text" name="prenume" value="<?php echo htmlspecialchars($prenume) ?>" placeholder="Maria">
         <div> <?php echo $errors['prenume']; ?> </div>
 
@@ -149,23 +149,23 @@ if(isset($_POST['submit']))
     </fieldset>
 
     <fieldset>
-        <legend><span class="number">2</span> Informații comandă </legend>
+        <legend><span class="number">2</span> Order info </legend>
 
-        <label><sup>*</sup>ID Produs 1</label>
+        <label><sup>*</sup>ID Product 1</label>
         <input type="text" name="produs1" value="<?php echo htmlspecialchars($produs1) ?>" placeholder="1">
         <div> <?php echo $errors['produs1']; ?> </div>
 
-        <label>ID Produs 2</label>
+        <label>ID Product 2</label>
         <input type="text" name="produs2" value="<?php echo htmlspecialchars($produs2) ?>">
         <div> <?php echo $errors['produs2']; ?> </div>
 
-        <label>ID Produs 3</label>
+        <label>ID Product 3</label>
         <input type="text" name="produs3" value="<?php echo htmlspecialchars($produs3) ?>">
         <div> <?php echo $errors['produs3']; ?> </div>
 
     </fieldset>
 
-    <button type="submit" name="submit" value="submit" > Trimite comanda! </button>
+    <button type="submit" name="submit" value="submit" > Send order! </button>
 
 </form>
 <br>

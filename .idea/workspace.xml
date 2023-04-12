@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="369af9f1-e38f-40ec-a420-22bd641785da" name="Changes" comment="" />
+    <list default="true" id="369af9f1-e38f-40ec-a420-22bd641785da" name="Changes" comment="changed some text">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acasa.html" beforeDir="false" afterPath="$PROJECT_DIR$/acasa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculeaza.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculeaza.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comanda.php" beforeDir="false" afterPath="$PROJECT_DIR$/comanda.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produse1.html" beforeDir="false" afterPath="$PROJECT_DIR$/produse1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produse2.html" beforeDir="false" afterPath="$PROJECT_DIR$/produse2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produse3.html" beforeDir="false" afterPath="$PROJECT_DIR$/produse3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +30,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OJpTFMXQaT9Blt8an6RisIsveU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,11 +70,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681288548547</updated>
-      <workItem from="1681288548549" duration="751000" />
+      <workItem from="1681288548549" duration="2394000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed some text" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed some text" />
   </component>
 </project>
