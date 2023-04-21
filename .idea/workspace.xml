@@ -6,6 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="369af9f1-e38f-40ec-a420-22bd641785da" name="Changes" comment="changed some text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acasa.html" beforeDir="false" afterPath="$PROJECT_DIR$/acasa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img10.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img11.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img12.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produse1.html" beforeDir="false" afterPath="$PROJECT_DIR$/produse1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produse2.html" beforeDir="false" afterPath="$PROJECT_DIR$/produse2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produse3.html" beforeDir="false" afterPath="$PROJECT_DIR$/produse3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,30 +46,37 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../xampp/htdocs" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="2OJpTFMXQaT9Blt8an6RisIsveU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexandra\IdeaProjects\Furniture Store\img" />
       <recent name="C:\Users\Alexandra\IdeaProjects\Furniture Store" />
     </key>
   </component>
@@ -66,7 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681288548547</updated>
       <workItem from="1681288548549" duration="2455000" />
-      <workItem from="1681292681485" duration="216000" />
+      <workItem from="1681292681485" duration="291000" />
+      <workItem from="1682108239100" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="changed some text">
       <created>1681291391642</created>
@@ -75,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681291391643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed some text">
+      <created>1681292964926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681292964926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
