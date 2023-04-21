@@ -8,7 +8,7 @@ My first website designed for a furniture store, connected to a MySQL database, 
 - Dropdown menu for browsing different categories of products
 
 
-![fs1](https://user-images.githubusercontent.com/127431550/233732677-fdb5fa4d-ca79-4943-8d9a-9e1a9640359d.png)
+![fs1](https://user-images.githubusercontent.com/127431550/233733201-72f70e33-6ebd-4709-a772-75c10fc40b4e.png)
 
 
 - Containers with an image and product details
