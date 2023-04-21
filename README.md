@@ -8,16 +8,17 @@ My first website designed for a furniture store, connected to a MySQL database, 
 - Dropdown menu for browsing different categories of products
 
 
-![fs1](https://user-images.githubusercontent.com/127431550/233733201-72f70e33-6ebd-4709-a772-75c10fc40b4e.png)
+![fs1](https://user-images.githubusercontent.com/127431550/233733501-7369bbf0-e92c-4a6f-8e00-82618b21a8a2.png)
 
 
 - Containers with an image and product details
 
 
-![fs2](https://user-images.githubusercontent.com/127431550/233732883-0b1e9467-8286-452a-9090-de49d6549a75.png)
+![fs2](https://user-images.githubusercontent.com/127431550/233733506-20c678e8-513a-4d59-863e-afb1d1ead8bf.png)
 
 
 - Order Form: fill in your details and send the order!
 
 
-![fs4](https://user-images.githubusercontent.com/127431550/233732726-2581841f-4ee9-4395-be20-9428ab8c42c2.png)
+![fs4](https://user-images.githubusercontent.com/127431550/233733512-51885782-9911-4482-a43f-57be402b3aa2.png)
+
