@@ -1,10 +1,11 @@
 # FurnitureStore
-My first website designed for a furniture store, connected to a MySQL database, where a client can browse products and place an order through a form, fully validated with PHP.  
+My first website designed for a furniture store, connected to a MySQL database, where a client can browse products and place an order through a form, fully validated with PHP.   
 
 
 ## Main Features
 
 - Home page with a slideshow of different images
+
 - Dropdown menu for browsing different categories of products
 
 
@@ -19,7 +20,7 @@ My first website designed for a furniture store, connected to a MySQL database, 
 
 
 
-- Order Form: fill in your details and send the order!
+- Order Form: fill in your details and send the order. Every field of the form will be validated, as well as the data submitted.
 
 
 
