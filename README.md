@@ -21,4 +21,3 @@ My first website designed for a furniture store, connected to a MySQL database, 
 
 
 ![fs4](https://user-images.githubusercontent.com/127431550/233732726-2581841f-4ee9-4395-be20-9428ab8c42c2.png)
-
